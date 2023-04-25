@@ -1,4 +1,4 @@
-package Stream;
+package day6;
 
 
 public class StudentConstructor {
