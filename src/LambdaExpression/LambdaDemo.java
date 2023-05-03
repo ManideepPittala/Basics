@@ -1,4 +1,4 @@
-package day7;
+package LambdaExpression;
 
 @FunctionalInterface
 interface M{

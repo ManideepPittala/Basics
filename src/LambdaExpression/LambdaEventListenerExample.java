@@ -1,4 +1,4 @@
-package day7;
+package LambdaExpression;
 
 import javax.swing.JButton;  
 import javax.swing.JFrame;  
